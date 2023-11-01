@@ -1,3 +1,5 @@
-Thing
+4. Dalīta rēķina un dzeramnaudas kalkulators
 
-Skōldpaddorna
+Vietne, kur mēs varētu apreķināt, kā pareizi sadalīt rēķinu starp cilvēkiem un apreķināt dzeramnaudu => uzzināt cik naudas vajag visam darbībam. Jabūt galvenokārt apreķināšanas funkcijai, kā āri piedavāta iespēja mainīt dzeramnaudas lielumu(procentos) un mainīt cilvēku skaitu un kopēja rēķina lielumu. Dizains - ne kas specifisks. 
+Funkcionalitātes apraksts, mērķa apraksts:
+"Ja vēlaties saprast, cik lielu dzeramnaudu atstāt viesmīlim, varat izmantot šo kalkulatoru. Varat arī izmantot šo kalkulatoru, ja vēlaties dalīt rēķinu ar citiem." //(paņemts no https://calculatorian.com/lv/financial/tip-calculator)
